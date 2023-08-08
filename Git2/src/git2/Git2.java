@@ -23,6 +23,8 @@ public class Git2 {
         String nombre;
         int edad;
         //estamos muy duros!!!
+        
+        //Vamoooossss!!!!!!!!!!!!!!
     }  
     
 }
