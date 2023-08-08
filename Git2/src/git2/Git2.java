@@ -22,6 +22,6 @@ public class Git2 {
         
         String nombre;
         int edad;
-       
+    }  
     
 }
